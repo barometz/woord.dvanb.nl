@@ -12,7 +12,7 @@ TIMEZONE = 'Europe/Amsterdam'
 
 DEFAULT_LANG = 'en'
 
-THEME='theme/blue-penguin'
+THEME='theme/pelican-sober'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
