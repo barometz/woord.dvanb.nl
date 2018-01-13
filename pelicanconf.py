@@ -29,7 +29,10 @@ LINKS = () # (('Pelican', 'http://getpelican.com/'),)
 
 # Social widget
 SOCIAL = (('Twitter', 'https://twitter.com/baudvine'),
-          ('GitHub', 'https://github.com/barometz/'),)
+          ('GitHub', 'https://github.com/barometz/'),
+          ('LinkedIn', 'https://www.linkedin.com/in/dvberkel/'),)
+
+TWITTER_USERNAME = 'baudvine'
 
 DEFAULT_PAGINATION = 10
 
