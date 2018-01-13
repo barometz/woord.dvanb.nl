@@ -35,3 +35,5 @@ DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+PELICAN_SOBER_TWITTER_CARD_CREATOR = 'baudvine'
