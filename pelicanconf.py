@@ -12,6 +12,9 @@ TIMEZONE = 'Europe/Amsterdam'
 
 DEFAULT_LANG = 'en'
 
+PLUGIN_PATHS = ['plugin']
+PLUGINS = ['filetime_from_git']
+
 THEME='theme/pelican-sober'
 
 # Feed generation is usually not desired when developing

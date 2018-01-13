@@ -12,4 +12,5 @@ verify_ssl = true
 [packages]
 
 pelican = "*"
-Markdown = "*"
+markdown = "*"
+gitpython = "*"

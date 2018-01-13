@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "5aff878a1a288ee8d5e4fefd5314f7fe2fec0bf9121f472f416a6b7cdd9ce8b9"
+            "sha256": "344020e277ce8bf7fac4d005ff8d05e6601b40628d82884885235652ca90f04b"
         },
         "host-environment-markers": {
             "implementation_name": "cpython",
@@ -46,6 +46,20 @@
                 "sha256:5ae05daa9cfa47fa406ee4744d0b7fa1c8a05a7a47ee0ad328ddf55327cfb106"
             ],
             "version": "==1.9"
+        },
+        "gitdb2": {
+            "hashes": [
+                "sha256:cf9a4b68e8c4da8d42e48728c944ff7af2d8c9db303ac1ab32eac37aa4194b0e",
+                "sha256:b60e29d4533e5e25bb50b7678bbc187c8f6bcff1344b4f293b2ba55c85795f09"
+            ],
+            "version": "==2.0.3"
+        },
+        "gitpython": {
+            "hashes": [
+                "sha256:b8367c432de995dc330b5b146c5bfdc0926b8496e100fda6692134e00c0dcdc5",
+                "sha256:ad61bc25deadb535b047684d06f3654c001d9415e1971e51c9c20f5b510076e9"
+            ],
+            "version": "==2.1.8"
         },
         "jinja2": {
             "hashes": [
@@ -108,6 +122,13 @@
                 "sha256:70e8a77beed4562e7f14fe23a786b54f6296e34344c23bc42f07b15018ff98e9"
             ],
             "version": "==1.11.0"
+        },
+        "smmap2": {
+            "hashes": [
+                "sha256:b78ee0f1f5772d69ff50b1cbdb01b8c6647a8354f02f23b488cf4b2cfc923956",
+                "sha256:c7530db63f15f09f8251094b22091298e82bf6c699a6b8344aaaef3f2e1276c3"
+            ],
+            "version": "==2.0.3"
         },
         "unidecode": {
             "hashes": [
