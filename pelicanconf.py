@@ -13,7 +13,7 @@ TIMEZONE = 'Europe/Amsterdam'
 DEFAULT_LANG = 'en'
 
 PLUGIN_PATHS = ['plugin']
-PLUGINS = ['filetime_from_git', 'open_graph']
+PLUGINS = ['filetime_from_git', 'open_graph', 'pelican_summary']
 
 THEME='theme/pelican-sober'
 
