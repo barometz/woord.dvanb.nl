@@ -1,4 +1,4 @@
-Title: Verplichte heropening
+Title: Openingsrede
 Category: Meta
 Slug: obligatory-inaugural
 Lang: nl

@@ -11,7 +11,7 @@ an idea some time last week about something I could write about, but by now I
 don't recall what that idea was. I did in the meantime set up a new VPS,
 configure [lighttpd][], get my first-ever [TLS certificate][letsencrypt], set
 up [HSTS][] and set up a [blogging tool][pelican]. All things that were
-clearly necessasry for me to write things on the internet, but now I have
+clearly necessary for me to write things on the internet, but now I have
 nothing to write about.
 
 ## Goal of this blough
