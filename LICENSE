@@ -1,0 +1,11 @@
+All prose and poetry is © Dominic van Berkel, 2018 unless otherwise
+indicated. Released under CC-BY-NC-SA.
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Plugins in the plugin/ directory are released under the GNU AFFERO GENERAL
+PUBLIC LICENSE, unless they contain their own LICENSE file.
+https://www.gnu.org/licenses/agpl-3.0.html
+
+The pelican-sober theme was originally made by Florent Lebreton; it was
+released as part of the pelican-themes repository
+https://github.com/getpelican/pelican-themes
