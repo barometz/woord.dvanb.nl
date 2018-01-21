@@ -49,7 +49,6 @@ DEFAULT_PAGINATION = 10
 JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
 
 I18N_SUBSITES = {
-    'en': { },
     'nl': { },
 }
 
