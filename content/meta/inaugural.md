@@ -1,5 +1,6 @@
 Title: Obligatory Inaugural
 Category: Meta
+Lang: en
 Status: published
 
 This website was put together, mostly out of boredom and curiosity, by someone

@@ -13,9 +13,14 @@ TIMEZONE = 'Europe/Amsterdam'
 DEFAULT_LANG = 'en'
 
 PLUGIN_PATHS = ['plugin']
-PLUGINS = ['filetime_from_git', 'open_graph']
+PLUGINS = ['filetime_from_git', 'open_graph', 'i18n_subsites']
 
-THEME='theme/pelican-sober'
+THEME = 'theme/pelican-bootstrap3'
+BOOTSTRAP_THEME = 'yeti'
+
+# bootstrap3 settings
+SHOW_ARTICLE_CATEGORY = True
+SHOW_DATE_MODIFIED = True
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -33,10 +38,18 @@ SOCIAL = (('Twitter', 'https://twitter.com/baudvine'),
           ('LinkedIn', 'https://www.linkedin.com/in/dvberkel/'),)
 
 TWITTER_USERNAME = 'baudvine'
+TWITTER_CARDS = True
 
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
-PELICAN_SOBER_TWITTER_CARD_CREATOR = 'baudvine'
+JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
+
+I18N_SUBSITES = {
+    'en': { },
+    'nl': { },
+}
+
+

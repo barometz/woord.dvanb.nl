@@ -1,7 +1,3 @@
-[submodule "theme/pelican-sober"]
-	path = theme/pelican-sober
-	url = https://github.com/barometz/pelican-sober.git
-	branch = woord-modifications
 [submodule "plugin/open_graph"]
 	path = plugin/open_graph
 	url = https://github.com/barometz/pelican-open_graph.git
