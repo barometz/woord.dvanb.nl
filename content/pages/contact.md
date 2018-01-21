@@ -11,6 +11,4 @@ I've given up too many things.
 
 ## legalish
 
-Most of the design of these pages is the work of [Florent Lebreton](https://github.com/fle/); all modifications are chronicled on [this fork](https://github.com/barometz/pelican-sober/).
-
 The words are mostly mine, and licensed under [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/) unless it says otherwise. The tweet-sized summary is that you can share, reproduce and adapt the work as long as you tell people it's my fault, but not sell it.

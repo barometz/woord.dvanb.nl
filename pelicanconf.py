@@ -19,6 +19,7 @@ THEME = 'theme/pelican-bootstrap3'
 BOOTSTRAP_THEME = 'yeti'
 
 # bootstrap3 settings
+DISPLAY_ARTICLE_INFO_ON_INDEX = False
 SHOW_ARTICLE_CATEGORY = True
 SHOW_DATE_MODIFIED = True
 
