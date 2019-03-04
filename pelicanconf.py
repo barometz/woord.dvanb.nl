@@ -22,6 +22,7 @@ BOOTSTRAP_THEME = 'yeti'
 DISPLAY_ARTICLE_INFO_ON_INDEX = False
 SHOW_ARTICLE_CATEGORY = True
 SHOW_DATE_MODIFIED = True
+DOCUTIL_CSS = True
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
