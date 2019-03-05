@@ -21,7 +21,7 @@ BOOTSTRAP_THEME = 'yeti'
 # bootstrap3 settings
 DISPLAY_ARTICLE_INFO_ON_INDEX = False
 SHOW_ARTICLE_CATEGORY = True
-SHOW_DATE_MODIFIED = True
+SHOW_DATE_MODIFIED = False
 DOCUTIL_CSS = True
 
 # Feed generation is usually not desired when developing
